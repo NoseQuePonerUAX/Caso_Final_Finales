@@ -1,6 +1,3 @@
-# Caso_Final_Finales
-Link del repositorio: https://github.com/NoseQuePonerUAX/Caso_Final_Finales.git
-
 Ejercicio_2:
 
 1.- C) La tercera y última tiene una complejidad computacional de O(log2(N)) y ocupa un poco más de espacio en memoria S(O(log2(N))).
