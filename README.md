@@ -27,5 +27,3 @@ Iteración 8: El octavo y último elemento es 85. Lo comparamos con los elemento
 Lista: 13 16 20 22 50 84 85 89
 
 Asi quedaría finalmente.
-
-5.- 
